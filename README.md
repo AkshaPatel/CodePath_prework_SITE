@@ -4,7 +4,7 @@
 
 Submitted by: **Aksha Patel**
 
-Time spent: **10** hours spent in total
+Time spent: **6** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/various-quiver-environment?path=script.js%3A1%3A0)
 
